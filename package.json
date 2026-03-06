@@ -1,0 +1,1 @@
+{"name": "hello-openclaw", "version": "1.0.0", "description": "A simple hello world project", "main": "src/hello.js", "scripts": {"start": "node src/hello.js"}, "author": "Yukai", "license": "MIT"}
